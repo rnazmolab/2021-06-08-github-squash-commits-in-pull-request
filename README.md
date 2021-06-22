@@ -1,1 +1,1 @@
-# 2021-06-08-github-squash-commits-in-pull-request
+# 2021-06-22-github-squash-commits-in-pull-request
